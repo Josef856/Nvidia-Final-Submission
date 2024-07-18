@@ -9,7 +9,7 @@ using a reward system.
 ### Prerequisites
 
 This project depends on the `swig` utility, which can be installed in your
-device's packet manager or at [the swig website](swig.org).
+device's packet manager or at [the swig website](https://swig.org).
 
 This project also depends on the `gymnasium`, `renderlab`, and `opencv-python
 modules`, which can be manually installed using `pip`.
